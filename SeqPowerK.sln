@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeqPowerK", "SeqPowerK\SeqPowerK.csproj", "{94ED96B4-79DF-4D95-A0D5-7A52E73C6FEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94ED96B4-79DF-4D95-A0D5-7A52E73C6FEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94ED96B4-79DF-4D95-A0D5-7A52E73C6FEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94ED96B4-79DF-4D95-A0D5-7A52E73C6FEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94ED96B4-79DF-4D95-A0D5-7A52E73C6FEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34687B63-0672-4850-88E2-86A2E8067811}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34687B63-0672-4850-88E2-86A2E8067811}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34687B63-0672-4850-88E2-86A2E8067811}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34687B63-0672-4850-88E2-86A2E8067811}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D0FADD9-D290-4EBD-8321-7A30437EE866}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D0FADD9-D290-4EBD-8321-7A30437EE866}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D0FADD9-D290-4EBD-8321-7A30437EE866}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D0FADD9-D290-4EBD-8321-7A30437EE866}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

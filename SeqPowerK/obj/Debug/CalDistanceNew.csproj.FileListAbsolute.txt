@@ -1,0 +1,9 @@
+C:\Users\ZERO\OneDrive\project\CalDistanceNew\CalDistance\bin\Debug\CalDistance.exe.config
+C:\Users\ZERO\OneDrive\project\CalDistanceNew\CalDistance\bin\Debug\CalDistance.exe
+C:\Users\ZERO\OneDrive\project\CalDistanceNew\CalDistance\bin\Debug\CalDistance.pdb
+C:\Users\ZERO\OneDrive\project\CalDistanceNew\CalDistance\obj\Debug\CalDistance.FrmDistance.resources
+C:\Users\ZERO\OneDrive\project\CalDistanceNew\CalDistance\obj\Debug\CalDistance.Properties.Resources.resources
+C:\Users\ZERO\OneDrive\project\CalDistanceNew\CalDistance\obj\Debug\CalDistanceNew.csproj.GenerateResource.Cache
+C:\Users\ZERO\OneDrive\project\CalDistanceNew\CalDistance\obj\Debug\CalDistance.exe
+C:\Users\ZERO\OneDrive\project\CalDistanceNew\CalDistance\obj\Debug\CalDistance.pdb
+C:\Users\ZERO\OneDrive\project\CalDistanceNew\CalDistance\obj\Debug\CalDistanceNew.csprojResolveAssemblyReference.cache

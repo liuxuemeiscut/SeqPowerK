@@ -1,0 +1,10 @@
+E:\Windows\Documents\GitHub\SeqPowerK\SeqPowerK\bin\Debug\CalDistance.exe.config
+E:\Windows\Documents\GitHub\SeqPowerK\SeqPowerK\bin\Debug\CalDistance.exe
+E:\Windows\Documents\GitHub\SeqPowerK\SeqPowerK\bin\Debug\CalDistance.pdb
+E:\Windows\Documents\GitHub\SeqPowerK\SeqPowerK\obj\Debug\SeqPowerK.csprojAssemblyReference.cache
+E:\Windows\Documents\GitHub\SeqPowerK\SeqPowerK\obj\Debug\CalDistance.FrmDistance.resources
+E:\Windows\Documents\GitHub\SeqPowerK\SeqPowerK\obj\Debug\CalDistance.Properties.Resources.resources
+E:\Windows\Documents\GitHub\SeqPowerK\SeqPowerK\obj\Debug\SeqPowerK.csproj.GenerateResource.cache
+E:\Windows\Documents\GitHub\SeqPowerK\SeqPowerK\obj\Debug\SeqPowerK.csproj.CoreCompileInputs.cache
+E:\Windows\Documents\GitHub\SeqPowerK\SeqPowerK\obj\Debug\CalDistance.exe
+E:\Windows\Documents\GitHub\SeqPowerK\SeqPowerK\obj\Debug\CalDistance.pdb
