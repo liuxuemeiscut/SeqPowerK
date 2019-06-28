@@ -12,7 +12,7 @@ CRMS:Cis-regulatory Module
 Replace:Horizontal Gene Transfer  
 Possibility:Bernoulli Probability of Module Insertion
 ### Setting: Alignment-free Statistic and Relevant Parameters
-Black area:Parameters
+Black area:Parameters  
 Green area:Alignment-free Statistic
 ### Save: Set the Save Path
 ### State: Dispaly the Progress of Calculation.
