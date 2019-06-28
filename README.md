@@ -5,13 +5,15 @@ SeqPowerK是一个模拟软件，是为了论文"The statistical power of k-mer 
 ![](https://github.com/HGDscut/SeqPowerK/blob/master/1.PNG)
 软件界面如上图所示分为五个区域：Sequence,CRMS,Setting,Save,and State.   
 ### Sequence: Set up Sequence Simulation
-Red area:模拟过程中循环次数，随机种子，序列长度  
+Red area:Number of simulated cycles，Random seed，Sequence Length  
 Blue area:设置模拟过程中各种碱基出现的概率(1/4Mode--e.i.i.d  1/3Mode--n.i.i.d)
 ### CRMS: Set the Method to Generate the Background Sequence
-CRMS:  
-Replace：  
+CRMS:Cis-regulatory Module  
+Replace:Horizontal Gene Transfer  
+Possibility:Bernoulli Probability of Module Insertion
 ### Setting: Alignment-free Statistic and Relevant Parameters
-
+Black area:Parameters
+Green area:Alignment-free Statistic
 ### Save: Set the Save Path
 ### State: Dispaly the Progress of Calculation.
 
