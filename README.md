@@ -1,12 +1,12 @@
 # SeqPowerK
-SeqPowerK是一个模拟软件，是为了论文"The statistical power of k-mer based sequence statistics for alignment-free comparison of metagenome contigs"，用于模拟计算基于k-mer的序列非比对方法的统计功效。  
-该软件只支持在windows平台上使用。
+SeqPowerK is a simulation software made for my paper,"The statistical power of k-mer based sequence statistics for alignment-free comparison of metagenome contigs", and it is used to calculate the statistiecal power of the statistical power of k-mer based sequence statistics.  
+Only run on Windows.
 # Usage
 ![](https://github.com/HGDscut/SeqPowerK/blob/master/1.PNG)
-软件界面如上图所示分为五个区域：Sequence,CRMS,Setting,Save,and State.   
+There 5 part on the interface:Sequence,CRMS,Setting,Save,and State.   
 ### Sequence: Set up Sequence Simulation
-Red area:Number of simulated cycles，Random seed，Sequence Length  
-Blue area:设置模拟过程中各种碱基出现的概率(1/4Mode--e.i.i.d  1/3Mode--n.i.i.d)
+Red area:You can set the Number of simulated cycles，Random seed，Sequence Length.  
+Blue area:The probability of bases in simulation is set here. (1/4Mode--e.i.i.d        1/3Mode--n.i.i.d)
 ![](https://github.com/HGDscut/SeqPowerK/blob/master/2.PNG)
 ### CRMS: Set the Method to Generate the Background Sequence
 CRMS:Cis-regulatory Module  
